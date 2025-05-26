@@ -1,3 +1,4 @@
 Hello, Git!
 This is second line.
 This is from the dev branch.
+This line is from Hotfix.
